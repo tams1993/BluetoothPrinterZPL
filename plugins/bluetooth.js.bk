@@ -1,0 +1,12 @@
+// import { Bluetooth, Printer } from 'escpos'; // Adjust this path if needed
+
+// export default defineNuxtPlugin(() => {
+//     {
+//         return {
+//           provide: {
+//               bluetooth: () => Bluetooth,
+//               printer: () => Printer
+//           }
+//         }
+//       }
+// });

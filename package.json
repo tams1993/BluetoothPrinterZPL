@@ -1,0 +1,28 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@replytechnologies/zpl-image-convert": "^0.0.3",
+    "@vueuse/core": "^11.2.0",
+    "@vueuse/nuxt": "^11.2.0",
+    "autoprefixer": "^10.4.20",
+    "buffer": "^6.0.3",
+    "daisyui": "^4.12.14",
+    "jimp": "^1.6.0",
+    "jszpl": "^1.1.8",
+    "nuxt": "^3.14.159",
+    "postcss": "^8.4.47",
+    "sharp": "^0.33.5",
+    "tailwindcss": "^3.4.14",
+    "vue": "latest",
+    "vue-router": "latest"
+  }
+}
